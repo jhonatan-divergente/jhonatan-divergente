@@ -31,24 +31,15 @@
   
 </div>
 <br/>
-<h3 align='center'>Estadísticas de github de <a href="https://github.com/jhonatan-divergente">jhonatan-divergente</a></h3> 
-<div align="center"><a href="https://github.com/jhonatan-divergente/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jhonatan-divergente&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></a>    
-</div
 <br/>
 <h3 align="center">Contacta conmigo<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="30px"></h3>
 <div align="center">
  <a href="mailto:jhonatan.vanegas@divergente.net.co">
     <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" width="20px" align="center" alt="jhonatan-divergente | Gmail"/>
   </a>
-  <!-- <a href="https://www.linkedin.com/in/john-fredy-urrego-urrego-125805149/">
-    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" width="20px" align="center" alt="jhonatan-divergente | Gmail"/>
-  </a>
-  <a href="https://twitter.com/jhonatan">
+  <a href="https://twitter.com/jvanegas09_">
     <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" width="20px" align="center" alt="jhonatan-divergente | Gmail"/>
   </a>
-  <a href="https://www.instagram.com/jhonatan-divergente/">
-    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" width="20px" align="center" alt="jhonatan-divergente | Gmail"/>
-  </a> -->
 </div>
 </body>
 </html>
